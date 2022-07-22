@@ -1,0 +1,14 @@
+name: "psalm"
+navbar:
+  title: "PSALM"
+  left:
+    - text: "Contents"
+      href: index.html
+    - text: "Round 1"
+      href: psalm-book.html
+    - text: "Round 2"
+      href: psalm-book.html
+    - text: "Round 3"
+      href: psalm-book.html
+    - text: "Round 4"
+      href: psalm-book.html
