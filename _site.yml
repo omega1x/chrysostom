@@ -1,4 +1,5 @@
 name: "psalm"
+output_dir: "docs"
 navbar:
   title: "PSALM"
   left:
